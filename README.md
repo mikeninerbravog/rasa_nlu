@@ -1,3 +1,5 @@
+<h1 align="center">WARNING: This is a "boot camp" object. Do not use in production! </h1>
+
 <h1 align="center">Rasa Open Source</h1>
 
 <div align="center">
